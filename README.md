@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Julia! 👋
+Welcome to my profile.
 <!--
 **julxy26/julxy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
