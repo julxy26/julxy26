@@ -5,12 +5,14 @@
  <p align="center">I'm a Frontend/ Full Stack Web Developer with a background in Graphic Design.</p>
 
 <div align="center">
+
 👩🏻‍ She/Her <br />
-🎓 UpLeveled Bootcamp Graduate <br />
-📚 Graphic and Communication Design <br />
 🌱 Plant Mom <br />
 🐶 Dog Lover <br />
-🍕 Huge Foodie
+🍕 Huge Foodie <br />
+🎓 UpLeveled Bootcamp Graduate <br />
+📚 Graphic and Communication Design 
+
 </div>
 
 <br />
