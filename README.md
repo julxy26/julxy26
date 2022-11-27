@@ -24,6 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?&perline=6&i=ts,js,html,css,react,nextjs,nodejs,postgresql,figma,emotion,ps,ai)](https://skillicons.dev)
  
  </div>
+ <br />
 
  <p align="center">📫 Reach me on ✿ <a href="https://www.linkedin.com/in/julia-hoi/">LinkedIn</a> ✿</p>
 
