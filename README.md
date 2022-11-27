@@ -10,6 +10,7 @@
 📚 Graphic and Communication Design <br />
 🌱 Plant Mom <br />
 🐶 Dog Lover <br />
+🍕 Huge Foodie
 </div>
 
 <br />
