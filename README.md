@@ -5,16 +5,17 @@
  <p align="center">I'm a Frontend/ Full Stack Web Developer with a background in Graphic Design.</p>
 
 
->>>👩🏻‍ She/Her <br />
->>>🎓 UpLeveled Graduate <br />
->>>📚 Graphic and Communication Design <br />
->>>🌱 Plant Mom <br />
->>>🐶 Dog Lover <br />
+>👩🏻‍ She/Her <br />
+>🎓 UpLeveled Graduate <br />
+>📚 Graphic and Communication Design <br />
+>🌱 Plant Mom <br />
+>🐶 Dog Lover <br />
 
 
 
 Tech Stack: <br />
 [![My Skills](https://skillicons.dev/icons?&perline=6&i=ts,js,html,css,react,nextjs,nodejs,postgresql,figma,emotion,ps,ai)](https://skillicons.dev)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julxy26)](https://github.com/anuraghazra/github-readme-stats)
 
