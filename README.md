@@ -1,5 +1,25 @@
-### Hi, I'm Julia! 👋
-Welcome to my profile.
+## Hi, I'm Julia Hoi! 👋
+Welcome to my profile!
+
+#### I'm a Frontend/ Full Stack Web Developer with a background in Graphic Design.
+
+
+ ✨ The more I want to get something done, the less I call it work. ✨
+
+
+👩🏻‍ She/Her <br />
+🎓 UpLeveled Graduate <br />
+📚 Graphic and Communication Design <br />
+🌱 Plant Mom <br />
+🐶 Dog Lover <br />
+
+
+Tech Stack: <br />
+
+
+
+
+
 <!--
 **julxy26/julxy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
