@@ -1,4 +1,4 @@
- ## <h1 align="center"> Hi, I'm Julia Hoi! 👋 </h1>
+ ## <h1 align="center"> Hi, I'm Julia! 👋 </h1>
   <p align="center"> ✨ The more I want to get something done, the less I call it work. ✨ </p>
 
 
